@@ -1,9 +1,9 @@
-Restaurant Landing Page =>
+Restaurant Landing Page :
 
 A fully responsive and visually appealing landing page for a fictional restaurant. Built with modern web technologies, 
 this project replicates a design mockup with pixel-perfect precision and emphasizes user experience across all devices.
 
-🔥 Features =>
+🔥 Features :
 
 • Responsive design for desktop, tablet, and mobile  
 • Sticky navigation bar with smooth scrolling  
@@ -17,9 +17,10 @@ this project replicates a design mockup with pixel-perfect precision and emphasi
 • Font Awesome icons for actions and social media  
 • Hover effects and subtle transitions for interactivity  
 
-🛠️ Technologies Used =>
+🛠️ Technologies Used :
 
-• HTML5 – Semantic markup for structured content  
+• HTML5 – Semantic markup for structured content
+• CSS3
 • Tailwind CSS – Utility-first styling for rapid UI development  
 • JavaScript – Interactivity (modal, form behavior)  
 • Font Awesome – Icon library for social and action buttons  
