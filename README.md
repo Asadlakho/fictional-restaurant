@@ -26,3 +26,7 @@ this project replicates a design mockup with pixel-perfect precision and emphasi
 • Font Awesome – Icon library for social and action buttons  
 • Google Fonts – Beautiful typography using Poppins and Lato  .
 
+🚀 Live Demo :
+🔗 https://asadlakho.github.io/fictional-restaurant/
+
+
